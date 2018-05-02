@@ -1,0 +1,11 @@
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\TestService\bin\Debug\netcoreapp2.0\TestService.deps.json
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\TestService\bin\Debug\netcoreapp2.0\TestService.runtimeconfig.json
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\TestService\bin\Debug\netcoreapp2.0\TestService.runtimeconfig.dev.json
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\TestService\bin\Debug\netcoreapp2.0\TestService.dll
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\TestService\bin\Debug\netcoreapp2.0\TestService.pdb
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\TestService\obj\Debug\netcoreapp2.0\TestService.csprojResolveAssemblyReference.cache
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\TestService\obj\Debug\netcoreapp2.0\TestService.csproj.CoreCompileInputs.cache
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\TestService\obj\Debug\netcoreapp2.0\TestService.AssemblyInfoInputs.cache
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\TestService\obj\Debug\netcoreapp2.0\TestService.AssemblyInfo.cs
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\TestService\obj\Debug\netcoreapp2.0\TestService.dll
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\TestService\obj\Debug\netcoreapp2.0\TestService.pdb

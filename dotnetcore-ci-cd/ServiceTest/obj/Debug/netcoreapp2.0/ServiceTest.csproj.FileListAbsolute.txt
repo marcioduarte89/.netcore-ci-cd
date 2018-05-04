@@ -1,0 +1,14 @@
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\ServiceTest\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\ServiceTest\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\ServiceTest\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\ServiceTest\bin\Debug\netcoreapp2.0\ServiceTest.deps.json
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\ServiceTest\bin\Debug\netcoreapp2.0\ServiceTest.runtimeconfig.json
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\ServiceTest\bin\Debug\netcoreapp2.0\ServiceTest.runtimeconfig.dev.json
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\ServiceTest\bin\Debug\netcoreapp2.0\ServiceTest.dll
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\ServiceTest\bin\Debug\netcoreapp2.0\ServiceTest.pdb
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\ServiceTest\obj\Debug\netcoreapp2.0\ServiceTest.csprojResolveAssemblyReference.cache
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\ServiceTest\obj\Debug\netcoreapp2.0\ServiceTest.csproj.CoreCompileInputs.cache
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\ServiceTest\obj\Debug\netcoreapp2.0\ServiceTest.AssemblyInfoInputs.cache
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\ServiceTest\obj\Debug\netcoreapp2.0\ServiceTest.AssemblyInfo.cs
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\ServiceTest\obj\Debug\netcoreapp2.0\ServiceTest.dll
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\ServiceTest\obj\Debug\netcoreapp2.0\ServiceTest.pdb

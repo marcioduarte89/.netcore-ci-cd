@@ -1,0 +1,11 @@
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\Gateway\bin\Debug\netcoreapp2.0\Gateway.deps.json
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\Gateway\bin\Debug\netcoreapp2.0\Gateway.runtimeconfig.json
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\Gateway\bin\Debug\netcoreapp2.0\Gateway.runtimeconfig.dev.json
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\Gateway\bin\Debug\netcoreapp2.0\Gateway.dll
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\Gateway\bin\Debug\netcoreapp2.0\Gateway.pdb
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\Gateway\obj\Debug\netcoreapp2.0\Gateway.csprojResolveAssemblyReference.cache
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\Gateway\obj\Debug\netcoreapp2.0\Gateway.csproj.CoreCompileInputs.cache
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\Gateway\obj\Debug\netcoreapp2.0\Gateway.AssemblyInfoInputs.cache
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\Gateway\obj\Debug\netcoreapp2.0\Gateway.AssemblyInfo.cs
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\Gateway\obj\Debug\netcoreapp2.0\Gateway.dll
+C:\Source\dotnetcore-ci-cd\dotnetcore-ci-cd\Gateway\obj\Debug\netcoreapp2.0\Gateway.pdb

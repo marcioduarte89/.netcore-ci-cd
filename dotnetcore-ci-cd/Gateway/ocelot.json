@@ -5,8 +5,8 @@
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
-          "Host": "localhost",
-          "Port": 9001
+          "Host": "172.17.0.3",
+          "Port": 80
         }
       ],
       "UpstreamPathTemplate": "/test",
@@ -14,6 +14,6 @@
     }
   ],
   "GlobalConfiguration": {
-    "BaseUrl": "http://localhost:64139"
+    "BaseUrl": "http://localhost:80"
   }
 }

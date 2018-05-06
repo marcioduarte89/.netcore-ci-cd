@@ -1,6 +1,6 @@
 services:
     test.service:
-        image: dotnetcorecicd/testservice:${TAG:-latest}
+        image: marcioduarte89/testservice
         build:
           context: ./TestService
           dockerfile: Dockerfile

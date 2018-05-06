@@ -1,5 +1,5 @@
 services:
-    test.service:
+    testservice:
         image: marcioduarte89/testservice
         build:
           context: ./TestService

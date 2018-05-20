@@ -1,2 +1,4 @@
 # DotNetCore-CI-CD
-.NET Core application using VSTS as Continuous Integration and Delivery deploying my test project in Azure
+A Testing .NET Core application using VSTS for CI/CD to deploy to Azure using AKS.
+
+This test project also uses Ocelot to perform Service Discovery.

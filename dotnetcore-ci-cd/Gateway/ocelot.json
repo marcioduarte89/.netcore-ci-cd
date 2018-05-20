@@ -1,0 +1,19 @@
+﻿{
+  "ReRoutes": [
+    {
+      "DownstreamPathTemplate": "/api/values",
+      "DownstreamScheme": "http",
+      "DownstreamHostAndPorts": [
+        {
+          "Host": "10.0.137.80",
+          "Port": 80
+        }
+      ],
+      "UpstreamPathTemplate": "/test",
+      "UpstreamHttpMethod": [ "Get" ]
+    }
+  ],
+  "GlobalConfiguration": {
+    "BaseUrl": "http://104.45.15.125:80"
+  }
+}

@@ -1,8 +1,21 @@
+version: '3.6'
+
 services:
+    api.gateway:
+        image: dotnetcorecicd/apigateway:${TAG:-latest}
+        network_mode: bridge
+        build:
+          context: ./Gateway
+          dockerfile: Dockerfile
+        ports:
+            - "9000:80"
     test.service:
-        image: marcioduarte89/testservice
+        image: dotnetcorecicd/testservice:${TAG:-latest}
+        network_mode: bridge
         build:
           context: ./TestService
           dockerfile: Dockerfile
+        expose:
+          - "9999"
         ports:
             - "9001:80"
